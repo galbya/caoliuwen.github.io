@@ -2,5 +2,5 @@
 
 ### personal information  
 #### name: caoliuwen  
-##### school: East China JiaotongUniversity  
+##### school: East China Jiaotong University  
 #### email: caoliuwencc@163.com  
